@@ -12,7 +12,7 @@
 "male","group E","some college","standard","completed","99","83","85"
 "female","group D","high school","standard","completed","80","87","90"
 "male","group D","associate's degree","standard","completed","77","87","85"
-"male","group C","high school","standard","completed","74","74","73"
+"male","group C","high school","standard",NaN,NaN,NaN,NaN
 "male","group E","some high school","standard","completed","81","87","85"
 "male","group E","associate's degree","free/reduced","none","69","61","57"
 "male","group B","high school","standard","none","58","47","42"
